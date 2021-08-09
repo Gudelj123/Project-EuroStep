@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/ivPlayerPicture"
+        android:layout_width="@dimen/picture_width"
+        android:layout_height="@dimen/picture_height"
+        android:layout_marginLeft="@dimen/list_padding"
+        android:layout_marginTop="@dimen/picture_padding_top"
+        android:src="@drawable/plainman"
+        android:clickable="true"
+    />
+    <ImageView
+        android:id="@+id/ivEmptyLogo"
+        android:layout_width="@dimen/logo_width"
+        android:layout_height="@dimen/logo_height"
+        android:layout_toRightOf="@+id/ivPlayerPicture"
+        android:layout_marginTop="@dimen/picture_padding_top"
+        android:layout_marginLeft="@dimen/picture_padding_top"
+        android:src="@drawable/emptylogo"/>
+    <TextView
+        android:id="@+id/tvTeamAbbr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivEmptyLogo"
+        android:layout_toRightOf="@id/ivPlayerPicture"
+        android:layout_marginTop="@dimen/picture_padding_top"
+        android:layout_marginLeft="@dimen/picture_padding_top"
+        android:text="@string/team_abbr"
+        android:textAlignment="center"
+        android:textSize="@dimen/abbreviation_text_size"
+        />
+    <TextView
+        android:id="@+id/tvPlayerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivPlayerPicture"
+        android:layout_marginTop="@dimen/picture_padding_top"
+        android:layout_marginLeft="@dimen/picture_padding_top"
+        android:text="@string/player_name"
+        android:textAlignment="center"
+        android:textSize="@dimen/default_text_size"
+    />
+
+    <TextView
+        android:id="@+id/tvPlayerYear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvPlayerName"
+        android:layout_marginLeft="@dimen/picture_padding_top"
+        android:layout_marginVertical="@dimen/list_padding"
+        android:text="@string/player_pos"
+        android:textSize="@dimen/default_text_size" />
+    <ListView
+        android:id="@+id/lvPlayerDescription"
+        android:layout_width="@dimen/player_description_width"
+        android:layout_height="@dimen/player_description_height"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_below="@+id/tvPlayerYear"
+        android:layout_centerHorizontal="true"
+        android:listSelector="@color/hint_text"
+        />
+    <Button
+        android:id="@+id/btnBacCertainPersoneView"
+        android:layout_width="@dimen/btn_width"
+        android:layout_height="@dimen/btn_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/lvPlayerDescription"
+        android:text="@string/back"
+        android:textSize="@dimen/default_text_size"
+        android:layout_marginTop="@dimen/list_padding"
+        />
+</RelativeLayout>

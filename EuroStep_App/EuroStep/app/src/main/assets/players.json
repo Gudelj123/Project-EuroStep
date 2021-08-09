@@ -1,0 +1,2704 @@
+{
+    "players": [
+        {
+            "Age": "24",
+            "Name": "Alex Abrines",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Quincy Acy",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "Steven Adams",
+            "Pos": "C"
+        },
+        {
+            "Age": "20",
+            "Name": "Bam Adebayo",
+            "Pos": "C"
+        },
+        {
+            "Age": "32",
+            "Name": "Arron Afflalo",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Cole Aldrich",
+            "Pos": "C"
+        },
+        {
+            "Age": "32",
+            "Name": "LaMarcus Aldridge",
+            "Pos": "C"
+        },
+        {
+            "Age": "19",
+            "Name": "Jarrett Allen",
+            "Pos": "C"
+        },
+        {
+            "Age": "25",
+            "Name": "Kadeem Allen",
+            "Pos": "PG"
+        },
+        {
+            "Age": "36",
+            "Name": "Tony Allen",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "Al-Farouq Aminu",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "Justin Anderson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Kyle Anderson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "29",
+            "Name": "Ryan Anderson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "19",
+            "Name": "Ike Anigbogu",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Giannis Antetokounmpo",
+            "Pos": "PF"
+        },
+        {
+            "Age": "33",
+            "Name": "Carmelo Anthony",
+            "Pos": "PF"
+        },
+        {
+            "Age": "20",
+            "Name": "OG Anunoby",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Ryan Arcidiacono",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Trevor Ariza",
+            "Pos": "SF"
+        },
+        {
+            "Age": "29",
+            "Name": "Darrell Arthur",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Jamel Artis",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Omer Asik",
+            "Pos": "C"
+        },
+        {
+            "Age": "30",
+            "Name": "D.J. Augustin",
+            "Pos": "PG"
+        },
+        {
+            "Age": "28",
+            "Name": "Luke Babbitt",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Dwayne Bacon",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Ron Baker",
+            "Pos": "SG"
+        },
+        {
+            "Age": "21",
+            "Name": "Wade Baldwin",
+            "Pos": "PG"
+        },
+        {
+            "Age": "20",
+            "Name": "Lonzo Ball",
+            "Pos": "PG"
+        },
+        {
+            "Age": "33",
+            "Name": "J.J. Barea",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Harrison Barnes",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Will Barton",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Nicolas Batum",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Jerryd Bayless",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Aron Baynes",
+            "Pos": "C"
+        },
+        {
+            "Age": "28",
+            "Name": "Kent Bazemore",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Bradley Beal",
+            "Pos": "SG"
+        },
+        {
+            "Age": "21",
+            "Name": "Malik Beasley",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Michael Beasley",
+            "Pos": "PF"
+        },
+        {
+            "Age": "31",
+            "Name": "Marco Belinelli",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Jordan Bell",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "DeAndre' Bembry",
+            "Pos": "SF"
+        },
+        {
+            "Age": "20",
+            "Name": "Dragan Bender",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Davis Bertans",
+            "Pos": "PF"
+        },
+        {
+            "Age": "29",
+            "Name": "Patrick Beverley",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Khem Birch",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Jabari Bird",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Bismack Biyombo",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Nemanja Bjelica",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Tarik Black",
+            "Pos": "C"
+        },
+        {
+            "Age": "21",
+            "Name": "Antonio Blakeney",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Eric Bledsoe",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Vander Blue",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Bogdan Bogdanovic",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Bojan Bogdanovic",
+            "Pos": "SF"
+        },
+        {
+            "Age": "33",
+            "Name": "Andrew Bogut",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Joel Bolomboy",
+            "Pos": "PF"
+        },
+        {
+            "Age": "21",
+            "Name": "Devin Booker",
+            "Pos": "SG"
+        },
+        {
+            "Age": "30",
+            "Name": "Trevor Booker",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Chris Boucher",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Avery Bradley",
+            "Pos": "SG"
+        },
+        {
+            "Age": "20",
+            "Name": "Tony Bradley",
+            "Pos": "C"
+        },
+        {
+            "Age": "31",
+            "Name": "Corey Brewer",
+            "Pos": "SF-SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Malcolm Brogdon",
+            "Pos": "PG"
+        },
+        {
+            "Age": "33",
+            "Name": "Aaron Brooks",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Dillon Brooks",
+            "Pos": "SF"
+        },
+        {
+            "Age": "29",
+            "Name": "MarShon Brooks",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Anthony Brown",
+            "Pos": "SF"
+        },
+        {
+            "Age": "33",
+            "Name": "Bobby Brown",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "Jaylen Brown",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Lorenzo Brown",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Markel Brown",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Sterling Brown",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Nicolas Brussino",
+            "Pos": "SF"
+        },
+        {
+            "Age": "20",
+            "Name": "Thomas Bryant",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Reggie Bullock",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Trey Burke",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Alec Burks",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Jimmy Butler",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Dwight Buycks",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Bruno Caboclo",
+            "Pos": "SF"
+        },
+        {
+            "Age": "36",
+            "Name": "Jose Calderon",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Kentavious Caldwell-Pope",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Isaiah Canaan",
+            "Pos": "PG-SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Clint Capela",
+            "Pos": "C"
+        },
+        {
+            "Age": "31",
+            "Name": "DeMarre Carroll",
+            "Pos": "SF"
+        },
+        {
+            "Age": "41",
+            "Name": "Vince Carter",
+            "Pos": "SF"
+        },
+        {
+            "Age": "26",
+            "Name": "Michael Carter-Williams",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Alex Caruso",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Omri Casspi",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Willie Cauley-Stein",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Tyler Cavanaugh",
+            "Pos": "PF"
+        },
+        {
+            "Age": "31",
+            "Name": "Mario Chalmers",
+            "Pos": "PG"
+        },
+        {
+            "Age": "35",
+            "Name": "Tyson Chandler",
+            "Pos": "C"
+        },
+        {
+            "Age": "30",
+            "Name": "Wilson Chandler",
+            "Pos": "SF"
+        },
+        {
+            "Age": "20",
+            "Name": "Marquese Chriss",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Ian Clark",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Jordan Clarkson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Gian Clavell",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Antonius Cleveland",
+            "Pos": "SG"
+        },
+        {
+            "Age": "20",
+            "Name": "John Collins",
+            "Pos": "PF"
+        },
+        {
+            "Age": "20",
+            "Name": "Zach Collins",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Kyle Collinsworth",
+            "Pos": "SF"
+        },
+        {
+            "Age": "30",
+            "Name": "Darren Collison",
+            "Pos": "PG"
+        },
+        {
+            "Age": "37",
+            "Name": "Nick Collison",
+            "Pos": "PF"
+        },
+        {
+            "Age": "30",
+            "Name": "Mike Conley",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Pat Connaughton",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Quinn Cook",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Charles Cooke",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Jack Cooley",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "Matt Costello",
+            "Pos": "C"
+        },
+        {
+            "Age": "27",
+            "Name": "DeMarcus Cousins",
+            "Pos": "C"
+        },
+        {
+            "Age": "27",
+            "Name": "Robert Covington",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Allen Crabbe",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Torrey Craig",
+            "Pos": "SF"
+        },
+        {
+            "Age": "37",
+            "Name": "Jamal Crawford",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Jordan Crawford",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Jae Crowder",
+            "Pos": "SF"
+        },
+        {
+            "Age": "30",
+            "Name": "Dante Cunningham",
+            "Pos": "SF"
+        },
+        {
+            "Age": "29",
+            "Name": "Stephen Curry",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Troy Daniels",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Anthony Davis",
+            "Pos": "PF"
+        },
+        {
+            "Age": "21",
+            "Name": "Deyonta Davis",
+            "Pos": "C"
+        },
+        {
+            "Age": "28",
+            "Name": "Ed Davis",
+            "Pos": "C"
+        },
+        {
+            "Age": "28",
+            "Name": "Dewayne Dedmon",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Sam Dekker",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Malcolm Delaney",
+            "Pos": "PG"
+        },
+        {
+            "Age": "27",
+            "Name": "Matthew Dellavedova",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Luol Deng",
+            "Pos": "SF"
+        },
+        {
+            "Age": "28",
+            "Name": "DeMar DeRozan",
+            "Pos": "SG"
+        },
+        {
+            "Age": "21",
+            "Name": "Cheick Diallo",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Gorgui Dieng",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Spencer Dinwiddie",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "Tyler Dorsey",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Damyean Dotson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Milton Doyle",
+            "Pos": "SG"
+        },
+        {
+            "Age": "21",
+            "Name": "PJ Dozier",
+            "Pos": "PG"
+        },
+        {
+            "Age": "31",
+            "Name": "Goran Dragic",
+            "Pos": "PG"
+        },
+        {
+            "Age": "27",
+            "Name": "Larry Drew",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Andre Drummond",
+            "Pos": "C"
+        },
+        {
+            "Age": "32",
+            "Name": "Jared Dudley",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Kris Dunn",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Kevin Durant",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Jarell Eddie",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Henry Ellenson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "30",
+            "Name": "Wayne Ellington",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Joel Embiid",
+            "Pos": "C"
+        },
+        {
+            "Age": "27",
+            "Name": "James Ennis",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Tyler Ennis",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "Jawun Evans",
+            "Pos": "PG"
+        },
+        {
+            "Age": "30",
+            "Name": "Jeremy Evans",
+            "Pos": "SF"
+        },
+        {
+            "Age": "28",
+            "Name": "Tyreke Evans",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Dante Exum",
+            "Pos": "PG"
+        },
+        {
+            "Age": "28",
+            "Name": "Kenneth Faried",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Derrick Favors",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Kay Felder",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Cristiano Felicio",
+            "Pos": "C"
+        },
+        {
+            "Age": "33",
+            "Name": "Raymond Felton",
+            "Pos": "PG"
+        },
+        {
+            "Age": "19",
+            "Name": "Terrance Ferguson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Yogi Ferrell",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Dorian Finney-Smith",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "Bryn Forbes",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Evan Fournier",
+            "Pos": "SF"
+        },
+        {
+            "Age": "20",
+            "Name": "De'Aaron Fox",
+            "Pos": "PG"
+        },
+        {
+            "Age": "27",
+            "Name": "Tim Frazier",
+            "Pos": "PG"
+        },
+        {
+            "Age": "34",
+            "Name": "Channing Frye",
+            "Pos": "C"
+        },
+        {
+            "Age": "19",
+            "Name": "Markelle Fultz",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Danilo Gallinari",
+            "Pos": "SF"
+        },
+        {
+            "Age": "26",
+            "Name": "Langston Galloway",
+            "Pos": "SG"
+        },
+        {
+            "Age": "33",
+            "Name": "Marc Gasol",
+            "Pos": "C"
+        },
+        {
+            "Age": "37",
+            "Name": "Pau Gasol",
+            "Pos": "C"
+        },
+        {
+            "Age": "31",
+            "Name": "Rudy Gay",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Paul George",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Marcus Georges-Hunt",
+            "Pos": "SG"
+        },
+        {
+            "Age": "30",
+            "Name": "Jonathan Gibson",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Taj Gibson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "40",
+            "Name": "Manu Ginobili",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Rudy Gobert",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Aaron Gordon",
+            "Pos": "PF"
+        },
+        {
+            "Age": "29",
+            "Name": "Eric Gordon",
+            "Pos": "SG"
+        },
+        {
+            "Age": "33",
+            "Name": "Marcin Gortat",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Treveon Graham",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Jerami Grant",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Jerian Grant",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Josh Gray",
+            "Pos": "PG"
+        },
+        {
+            "Age": "30",
+            "Name": "Danny Green",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Draymond Green",
+            "Pos": "PF"
+        },
+        {
+            "Age": "32",
+            "Name": "Gerald Green",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "JaMychal Green",
+            "Pos": "PF"
+        },
+        {
+            "Age": "31",
+            "Name": "Jeff Green",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Blake Griffin",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Daniel Hamilton",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Tim Hardaway",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "James Harden",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Maurice Harkless",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Montrezl Harrell",
+            "Pos": "C"
+        },
+        {
+            "Age": "34",
+            "Name": "Devin Harris",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Gary Harris",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Joe Harris",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Tobias Harris",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Aaron Harrison",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Andrew Harrison",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Shaquille Harrison",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Josh Hart",
+            "Pos": "SG"
+        },
+        {
+            "Age": "37",
+            "Name": "Udonis Haslem",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Nigel Hayes",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "Gordon Hayward",
+            "Pos": "SF"
+        },
+        {
+            "Age": "26",
+            "Name": "Reggie Hearn",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Myke Henry",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "John Henson",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Juan Hernangomez",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Willy Hernangomez",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Mario Hezonja",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Isaiah Hicks",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Buddy Hield",
+            "Pos": "SG"
+        },
+        {
+            "Age": "35",
+            "Name": "Nene Hilario",
+            "Pos": "C"
+        },
+        {
+            "Age": "31",
+            "Name": "George Hill",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Solomon Hill",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Darrun Hilliard",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Jrue Holiday",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Justin Holiday",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "John Holland",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Rondae Hollis-Jefferson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Richaun Holmes",
+            "Pos": "C"
+        },
+        {
+            "Age": "25",
+            "Name": "Rodney Hood",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Scotty Hopson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Al Horford",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Danuel House",
+            "Pos": "SG"
+        },
+        {
+            "Age": "32",
+            "Name": "Dwight Howard",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Josh Huestis",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "R.J. Hunter",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Vince Hunter",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Serge Ibaka",
+            "Pos": "PF"
+        },
+        {
+            "Age": "34",
+            "Name": "Andre Iguodala",
+            "Pos": "SF"
+        },
+        {
+            "Age": "30",
+            "Name": "Ersan Ilyasova",
+            "Pos": "PF"
+        },
+        {
+            "Age": "30",
+            "Name": "Joe Ingles",
+            "Pos": "SF"
+        },
+        {
+            "Age": "32",
+            "Name": "Andre Ingram",
+            "Pos": "SG"
+        },
+        {
+            "Age": "20",
+            "Name": "Brandon Ingram",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Kyrie Irving",
+            "Pos": "PG"
+        },
+        {
+            "Age": "20",
+            "Name": "Jonathan Isaac",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Wesley Iwundu",
+            "Pos": "SF"
+        },
+        {
+            "Age": "34",
+            "Name": "Jarrett Jack",
+            "Pos": "PG"
+        },
+        {
+            "Age": "31",
+            "Name": "Aaron Jackson",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Demetrius Jackson",
+            "Pos": "PG"
+        },
+        {
+            "Age": "20",
+            "Name": "Josh Jackson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Justin Jackson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "Reggie Jackson",
+            "Pos": "PG"
+        },
+        {
+            "Age": "33",
+            "Name": "LeBron James",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Mike James",
+            "Pos": "PG"
+        },
+        {
+            "Age": "33",
+            "Name": "Al Jefferson",
+            "Pos": "C"
+        },
+        {
+            "Age": "37",
+            "Name": "Richard Jefferson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "28",
+            "Name": "Brandon Jennings",
+            "Pos": "PG"
+        },
+        {
+            "Age": "30",
+            "Name": "Jonas Jerebko",
+            "Pos": "PF"
+        },
+        {
+            "Age": "30",
+            "Name": "Amir Johnson",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Brice Johnson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Dakari Johnson",
+            "Pos": "C"
+        },
+        {
+            "Age": "30",
+            "Name": "James Johnson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "36",
+            "Name": "Joe Johnson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "28",
+            "Name": "Omari Johnson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "21",
+            "Name": "Stanley Johnson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Tyler Johnson",
+            "Pos": "PG"
+        },
+        {
+            "Age": "30",
+            "Name": "Wesley Johnson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Nikola Jokic",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Damian Jones",
+            "Pos": "C"
+        },
+        {
+            "Age": "20",
+            "Name": "Derrick Jones",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Jalen Jones",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Tyus Jones",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "DeAndre Jordan",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Cory Joseph",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Frank Kaminsky",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Enes Kanter",
+            "Pos": "C"
+        },
+        {
+            "Age": "21",
+            "Name": "Luke Kennard",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Michael Kidd-Gilchrist",
+            "Pos": "SF"
+        },
+        {
+            "Age": "28",
+            "Name": "Sean Kilpatrick",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Maxi Kleber",
+            "Pos": "PF"
+        },
+        {
+            "Age": "20",
+            "Name": "Furkan Korkmaz",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Luke Kornet",
+            "Pos": "PF"
+        },
+        {
+            "Age": "36",
+            "Name": "Kyle Korver",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Kosta Koufos",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Kyle Kuzma",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Mindaugas Kuzminskas",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Skal Labissiere",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Jeremy Lamb",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Shane Larkin",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Joffrey Lauvergne",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Zach LaVine",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Jake Layman",
+            "Pos": "SF"
+        },
+        {
+            "Age": "20",
+            "Name": "T.J. Leaf",
+            "Pos": "PF"
+        },
+        {
+            "Age": "32",
+            "Name": "Courtney Lee",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Damion Lee",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Walt Lemon",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Alex Len",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Kawhi Leonard",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Meyers Leonard",
+            "Pos": "C"
+        },
+        {
+            "Age": "28",
+            "Name": "Jon Leuer",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Caris LeVert",
+            "Pos": "SF"
+        },
+        {
+            "Age": "29",
+            "Name": "DeAndre Liggins",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Damian Lillard",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Jeremy Lin",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Shaun Livingston",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "Kevon Looney",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Brook Lopez",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Robin Lopez",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Kevin Love",
+            "Pos": "C"
+        },
+        {
+            "Age": "31",
+            "Name": "Kyle Lowry",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Timothe Luwawu-Cabarrot",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Tyler Lydon",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Trey Lyles",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Shelvin Mack",
+            "Pos": "PG"
+        },
+        {
+            "Age": "28",
+            "Name": "Josh Magette",
+            "Pos": "PG"
+        },
+        {
+            "Age": "31",
+            "Name": "Ian Mahinmi",
+            "Pos": "C"
+        },
+        {
+            "Age": "20",
+            "Name": "Thon Maker",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Boban Marjanovic",
+            "Pos": "C"
+        },
+        {
+            "Age": "20",
+            "Name": "Lauri Markkanen",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Jarell Martin",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Frank Mason",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Mangok Mathiang",
+            "Pos": "C"
+        },
+        {
+            "Age": "31",
+            "Name": "Wesley Matthews",
+            "Pos": "SF"
+        },
+        {
+            "Age": "31",
+            "Name": "Luc Mbah a Moute",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "James Michael McAdoo",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Patrick McCaw",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "CJ McCollum",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "T.J. McConnell",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Erik McCree",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Chris McCullough",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Doug McDermott",
+            "Pos": "SF"
+        },
+        {
+            "Age": "30",
+            "Name": "JaVale McGee",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Rodney McGruder",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Trey McKinney-Jones",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Alfonzo McKinnie",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Ben McLemore",
+            "Pos": "SG"
+        },
+        {
+            "Age": "30",
+            "Name": "Josh McRoberts",
+            "Pos": "PF"
+        },
+        {
+            "Age": "30",
+            "Name": "Jodie Meeks",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Salah Mejri",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Jordan Mickey",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Khris Middleton",
+            "Pos": "SF"
+        },
+        {
+            "Age": "30",
+            "Name": "C.J. Miles",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "Darius Miller",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Malcolm Miller",
+            "Pos": "SF"
+        },
+        {
+            "Age": "29",
+            "Name": "Patty Mills",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Paul Millsap",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Nikola Mirotic",
+            "Pos": "PF"
+        },
+        {
+            "Age": "21",
+            "Name": "Donovan Mitchell",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Naz Mitrou-Long",
+            "Pos": "SG"
+        },
+        {
+            "Age": "19",
+            "Name": "Malik Monk",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Greg Monroe",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Luis Montero",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Ben Moore",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "E'Twaun Moore",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Eric Moreland",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Jaylen Morris",
+            "Pos": "SG"
+        },
+        {
+            "Age": "28",
+            "Name": "Marcus Morris",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Markieff Morris",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Monte Morris",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Johnathan Motley",
+            "Pos": "PF"
+        },
+        {
+            "Age": "31",
+            "Name": "Timofey Mozgov",
+            "Pos": "C"
+        },
+        {
+            "Age": "21",
+            "Name": "Emmanuel Mudiay",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Shabazz Muhammad",
+            "Pos": "SF-SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Xavier Munford",
+            "Pos": "SG"
+        },
+        {
+            "Age": "21",
+            "Name": "Dejounte Murray",
+            "Pos": "PG"
+        },
+        {
+            "Age": "20",
+            "Name": "Jamal Murray",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Mike Muscala",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Abdel Nader",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Larry Nance",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Shabazz Napier",
+            "Pos": "PG"
+        },
+        {
+            "Age": "35",
+            "Name": "Jameer Nelson",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Raul Neto",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Georges Niang",
+            "Pos": "PF"
+        },
+        {
+            "Age": "32",
+            "Name": "Joakim Noah",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Nerlens Noel",
+            "Pos": "C"
+        },
+        {
+            "Age": "25",
+            "Name": "Lucas Nogueira",
+            "Pos": "C"
+        },
+        {
+            "Age": "39",
+            "Name": "Dirk Nowitzki",
+            "Pos": "C"
+        },
+        {
+            "Age": "19",
+            "Name": "Frank Ntilikina",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Jusuf Nurkic",
+            "Pos": "C"
+        },
+        {
+            "Age": "25",
+            "Name": "David Nwaba",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Johnny O'Bryant",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "Royce O'Neale",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "Kyle O'Quinn",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Semi Ojeleye",
+            "Pos": "PF"
+        },
+        {
+            "Age": "35",
+            "Name": "Emeka Okafor",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Jahlil Okafor",
+            "Pos": "C"
+        },
+        {
+            "Age": "25",
+            "Name": "Victor Oladipo",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Kelly Olynyk",
+            "Pos": "PF"
+        },
+        {
+            "Age": "21",
+            "Name": "Chinanu Onuaku",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Cedi Osman",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Kelly Oubre",
+            "Pos": "SF"
+        },
+        {
+            "Age": "33",
+            "Name": "Zaza Pachulia",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Marcus Paige",
+            "Pos": "PG"
+        },
+        {
+            "Age": "20",
+            "Name": "Georgios Papagiannis",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Jabari Parker",
+            "Pos": "PF"
+        },
+        {
+            "Age": "35",
+            "Name": "Tony Parker",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Chandler Parsons",
+            "Pos": "SF"
+        },
+        {
+            "Age": "28",
+            "Name": "Patrick Patterson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "20",
+            "Name": "Justin Patton",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Brandon Paul",
+            "Pos": "SG"
+        },
+        {
+            "Age": "32",
+            "Name": "Chris Paul",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Adreian Payne",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Cameron Payne",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Elfrid Payton",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Gary Payton",
+            "Pos": "PG"
+        },
+        {
+            "Age": "33",
+            "Name": "Kendrick Perkins",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "London Perrantes",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Alec Peters",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Marshall Plumlee",
+            "Pos": "C"
+        },
+        {
+            "Age": "27",
+            "Name": "Mason Plumlee",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Miles Plumlee",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Jakob Poeltl",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Quincy Pondexter",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Otto Porter",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Bobby Portis",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Kristaps Porzingis",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Dwight Powell",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Norman Powell",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Alex Poythress",
+            "Pos": "PF"
+        },
+        {
+            "Age": "28",
+            "Name": "Jacob Pullen",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Rodney Purvis",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Zhou Qi",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Tim Quarterman",
+            "Pos": "SG"
+        },
+        {
+            "Age": "20",
+            "Name": "Ivan Rabb",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Julius Randle",
+            "Pos": "C"
+        },
+        {
+            "Age": "36",
+            "Name": "Zach Randolph",
+            "Pos": "PF"
+        },
+        {
+            "Age": "23",
+            "Name": "Xavier Rathan-Mayes",
+            "Pos": "SG"
+        },
+        {
+            "Age": "33",
+            "Name": "J.J. Redick",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Davon Reed",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Willie Reed",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Josh Richardson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Malachi Richardson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Austin Rivers",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Andre Roberson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Devin Robinson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "Glenn Robinson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "31",
+            "Name": "Rajon Rondo",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Derrick Rose",
+            "Pos": "PG"
+        },
+        {
+            "Age": "26",
+            "Name": "Terrence Ross",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Terry Rozier",
+            "Pos": "PG"
+        },
+        {
+            "Age": "27",
+            "Name": "Ricky Rubio",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "D'Angelo Russell",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "Domantas Sabonis",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "JaKarr Sampson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Dario Saric",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Tomas Satoransky",
+            "Pos": "SG"
+        },
+        {
+            "Age": "24",
+            "Name": "Dennis Schroder",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Mike Scott",
+            "Pos": "PF"
+        },
+        {
+            "Age": "33",
+            "Name": "Thabo Sefolosha",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Wayne Selden",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Ramon Sessions",
+            "Pos": "PG"
+        },
+        {
+            "Age": "27",
+            "Name": "Iman Shumpert",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Pascal Siakam",
+            "Pos": "PF"
+        },
+        {
+            "Age": "30",
+            "Name": "Xavier Silas",
+            "Pos": "SG"
+        },
+        {
+            "Age": "21",
+            "Name": "Ben Simmons",
+            "Pos": "PG"
+        },
+        {
+            "Age": "28",
+            "Name": "Jonathon Simmons",
+            "Pos": "SG"
+        },
+        {
+            "Age": "20",
+            "Name": "Kobi Simmons",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Kyle Singler",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Marcus Smart",
+            "Pos": "SG"
+        },
+        {
+            "Age": "20",
+            "Name": "Dennis Smith",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Ish Smith",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "J.R. Smith",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Jason Smith",
+            "Pos": "C"
+        },
+        {
+            "Age": "32",
+            "Name": "Josh Smith",
+            "Pos": "PF"
+        },
+        {
+            "Age": "26",
+            "Name": "Tony Snell",
+            "Pos": "SG"
+        },
+        {
+            "Age": "30",
+            "Name": "Marreese Speights",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Nik Stauskas",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Lance Stephenson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "David Stockton",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Julyan Stone",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Edmond Sumner",
+            "Pos": "PG"
+        },
+        {
+            "Age": "20",
+            "Name": "Caleb Swanigan",
+            "Pos": "PF"
+        },
+        {
+            "Age": "19",
+            "Name": "Jayson Tatum",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Isaiah Taylor",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Jeff Teague",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Marquis Teague",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Mirza Teletovic",
+            "Pos": "PF"
+        },
+        {
+            "Age": "31",
+            "Name": "Garrett Temple",
+            "Pos": "SG"
+        },
+        {
+            "Age": "30",
+            "Name": "Milos Teodosic",
+            "Pos": "PG"
+        },
+        {
+            "Age": "40",
+            "Name": "Jason Terry",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Daniel Theis",
+            "Pos": "C"
+        },
+        {
+            "Age": "28",
+            "Name": "Isaiah Thomas",
+            "Pos": "PG"
+        },
+        {
+            "Age": "29",
+            "Name": "Lance Thomas",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Klay Thompson",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Tristan Thompson",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Sindarius Thornwell",
+            "Pos": "SG"
+        },
+        {
+            "Age": "32",
+            "Name": "Anthony Tolliver",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Karl-Anthony Towns",
+            "Pos": "C"
+        },
+        {
+            "Age": "32",
+            "Name": "P.J. Tucker",
+            "Pos": "PF"
+        },
+        {
+            "Age": "29",
+            "Name": "Evan Turner",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Myles Turner",
+            "Pos": "C"
+        },
+        {
+            "Age": "30",
+            "Name": "Ekpe Udoh",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Tyler Ulis",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Jonas Valanciunas",
+            "Pos": "C"
+        },
+        {
+            "Age": "24",
+            "Name": "Denzel Valentine",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Fred VanVleet",
+            "Pos": "PG"
+        },
+        {
+            "Age": "21",
+            "Name": "Rashad Vaughn",
+            "Pos": "SG"
+        },
+        {
+            "Age": "22",
+            "Name": "Noah Vonleh",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Nikola Vucevic",
+            "Pos": "C"
+        },
+        {
+            "Age": "36",
+            "Name": "Dwyane Wade",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Dion Waiters",
+            "Pos": "SG"
+        },
+        {
+            "Age": "27",
+            "Name": "Kemba Walker",
+            "Pos": "PG"
+        },
+        {
+            "Age": "27",
+            "Name": "John Wall",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Tyrone Wallace",
+            "Pos": "PG"
+        },
+        {
+            "Age": "23",
+            "Name": "Taurean Waller-Prince",
+            "Pos": "SF"
+        },
+        {
+            "Age": "22",
+            "Name": "Derrick Walton",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Jameel Warney",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "T.J. Warren",
+            "Pos": "SF"
+        },
+        {
+            "Age": "27",
+            "Name": "Travis Wear",
+            "Pos": "SF"
+        },
+        {
+            "Age": "24",
+            "Name": "James Webb",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Briante Weber",
+            "Pos": "PG"
+        },
+        {
+            "Age": "37",
+            "Name": "David West",
+            "Pos": "C"
+        },
+        {
+            "Age": "29",
+            "Name": "Russell Westbrook",
+            "Pos": "PG"
+        },
+        {
+            "Age": "24",
+            "Name": "Andrew White",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Derrick White",
+            "Pos": "PG"
+        },
+        {
+            "Age": "25",
+            "Name": "Okaro White",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "Isaiah Whitehead",
+            "Pos": "PG"
+        },
+        {
+            "Age": "28",
+            "Name": "Hassan Whiteside",
+            "Pos": "C"
+        },
+        {
+            "Age": "22",
+            "Name": "Andrew Wiggins",
+            "Pos": "SF"
+        },
+        {
+            "Age": "23",
+            "Name": "Jacob Wiley",
+            "Pos": "PF"
+        },
+        {
+            "Age": "38",
+            "Name": "Damien Wilkins",
+            "Pos": "SF"
+        },
+        {
+            "Age": "25",
+            "Name": "Alan Williams",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "C.J. Williams",
+            "Pos": "SG"
+        },
+        {
+            "Age": "26",
+            "Name": "Derrick Williams",
+            "Pos": "PF"
+        },
+        {
+            "Age": "31",
+            "Name": "Lou Williams",
+            "Pos": "SG"
+        },
+        {
+            "Age": "31",
+            "Name": "Marvin Williams",
+            "Pos": "PF"
+        },
+        {
+            "Age": "24",
+            "Name": "Matt Williams",
+            "Pos": "SG"
+        },
+        {
+            "Age": "23",
+            "Name": "Troy Williams",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "D.J. Wilson",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Jamil Wilson",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Justise Winslow",
+            "Pos": "PF"
+        },
+        {
+            "Age": "27",
+            "Name": "Jeff Withey",
+            "Pos": "C"
+        },
+        {
+            "Age": "26",
+            "Name": "Nate Wolters",
+            "Pos": "PG"
+        },
+        {
+            "Age": "30",
+            "Name": "Brandan Wright",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Delon Wright",
+            "Pos": "PG"
+        },
+        {
+            "Age": "22",
+            "Name": "Guerschon Yabusele",
+            "Pos": "PF"
+        },
+        {
+            "Age": "22",
+            "Name": "James Young",
+            "Pos": "SG"
+        },
+        {
+            "Age": "25",
+            "Name": "Joe Young",
+            "Pos": "PG"
+        },
+        {
+            "Age": "32",
+            "Name": "Nick Young",
+            "Pos": "SG"
+        },
+        {
+            "Age": "29",
+            "Name": "Thaddeus Young",
+            "Pos": "PF"
+        },
+        {
+            "Age": "25",
+            "Name": "Cody Zeller",
+            "Pos": "C"
+        },
+        {
+            "Age": "28",
+            "Name": "Tyler Zeller",
+            "Pos": "C"
+        },
+        {
+            "Age": "23",
+            "Name": "Paul Zipser",
+            "Pos": "SF"
+        },
+        {
+            "Age": "21",
+            "Name": "Ante Zizic",
+            "Pos": "C"
+        },
+        {
+            "Age": "20",
+            "Name": "Ivica Zubac",
+            "Pos": "C"
+        }
+    ]
+}

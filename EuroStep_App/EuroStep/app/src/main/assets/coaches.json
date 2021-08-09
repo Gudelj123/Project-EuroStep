@@ -1,0 +1,136 @@
+{
+    "coaches": [
+        {
+            "Name": "Mike Budenholzer",
+            "TeamName": "Atlanta Hawks"
+        },
+        {
+            "Name": "Brad Stevens",
+            "TeamName": "Boston Celtics"
+        },
+        {
+            "Name": "Kenny Atkinson",
+            "TeamName": "Brooklyn Nets"
+        },
+        {
+            "Name": "Fred Hoiberg",
+            "TeamName": "Chicago Bulls"
+        },
+        {
+            "Name": "Steve Clifford",
+            "TeamName": "Charlotte Hornets"
+        },
+        {
+            "Name": "Tyronn Lue",
+            "TeamName": "Cleveland Cavaliers"
+        },
+        {
+            "Name": "Rick Carlisle",
+            "TeamName": "Dallas Mavericks"
+        },
+        {
+            "Name": "Mike Malone",
+            "TeamName": "Denver Nuggets"
+        },
+        {
+            "Name": "Stan Van Gundy",
+            "TeamName": "Detroit Pistons"
+        },
+        {
+            "Name": "Steve Kerr",
+            "TeamName": "Golden State Warriors"
+        },
+        {
+            "Name": "Mike D'Antoni",
+            "TeamName": "Houston Rockets"
+        },
+        {
+            "Name": "Nate McMillan",
+            "TeamName": "Indiana Pacers"
+        },
+        {
+            "Name": "Doc Rivers",
+            "TeamName": "Los Angeles Clippers"
+        },
+        {
+            "Name": "Luke Walton",
+            "TeamName": "Los Angeles Lakers"
+        },
+        {
+            "Name": "David Fizdale",
+            "TeamName": "Memphis Grizzlies"
+        },
+        {
+            "Name": "J.B. Bickerstaff",
+            "TeamName": "Memphis Grizzlies"
+        },
+        {
+            "Name": "Erik Spoelstra",
+            "TeamName": "Miami Heat"
+        },
+        {
+            "Name": "Jason Kidd",
+            "TeamName": "Milwaukee Bucks"
+        },
+        {
+            "Name": "Joe Prunty",
+            "TeamName": "Milwaukee Bucks"
+        },
+        {
+            "Name": "Tom Thibodeau",
+            "TeamName": "Minnesota Timberwolves"
+        },
+        {
+            "Name": "Alvin Gentry",
+            "TeamName": "New Orleans Pelicans"
+        },
+        {
+            "Name": "Jeff Hornacek",
+            "TeamName": "New York Knicks"
+        },
+        {
+            "Name": "Billy Donovan",
+            "TeamName": "Oklahoma City Thunder"
+        },
+        {
+            "Name": "Frank Vogel",
+            "TeamName": "Orlando Magic"
+        },
+        {
+            "Name": "Brett Brown",
+            "TeamName": "Philadelphia 76ers"
+        },
+        {
+            "Name": "Earl Watson",
+            "TeamName": "Phoenix Suns"
+        },
+        {
+            "Name": "Jay Triano",
+            "TeamName": "Phoenix Suns"
+        },
+        {
+            "Name": "Terry Stotts",
+            "TeamName": "Portland Trail Blazers"
+        },
+        {
+            "Name": "Dave Joerger",
+            "TeamName": "Sacramento Kings"
+        },
+        {
+            "Name": "Gregg Popovich",
+            "TeamName": "San Antonio Spurs"
+        },
+        {
+            "Name": "Dwane Casey",
+            "TeamName": "Toronto Raptors"
+        },
+        {
+            "Name": "Quin Snyder",
+            "TeamName": "Utah Jazz"
+        },
+        {
+            "Name": "Scott Brooks",
+            "TeamName": "Washington Wizards"
+        }
+    ]
+}

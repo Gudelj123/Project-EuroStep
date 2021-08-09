@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="stats_array">
+        <item>Assists</item>
+        <item>Blocks</item>
+        <item>Defensive Rebounds</item>
+        <item>Field Goals Made</item>
+        <item>Field Goals Percentage</item>
+        <item>Free Throws</item>
+        <item>Free Throws Percentage</item>
+        <item>Games Played</item>
+        <item>Minutes Played</item>
+        <item>Offensive Rebounds</item>
+        <item>Points</item>
+        <item>Steals</item>
+        <item>Three Pointers Made</item>
+        <item>Three Point Percentage</item>
+    </string-array>
+
+    <string name="app_name">EuroStep</string>
+    <string name="teams">Teams</string>
+    <string name="players">Players</string>
+    <string name="coaches">Coaches</string>
+    <string name="app_info">App Info</string>
+    <string name="todays_info">Todays Matchups</string>
+    <string name="uvodna_recenica"><i>Welcome to our new NBA App.Here you will find everything you need to know about nowdays league</i></string>
+    <string name="App_info_recenica"><b><i>This application was created for Constructional Excercise in subject Basics of Web and Mobile applications Development.Created by Ivan Gudelj</i></b></string>
+    <string name="back">Back</string>
+    <string name="player_name">Name</string>
+    <string name="player_pos">Player_Position</string>
+    <string name="team_abbr">Team_Abbr</string>
+    <string name="search_hint">Search</string>
+    <string name="player_description">Certain clikced item description will be put in here.Description varies on selected menu.Should be different for every player/team/coach and all data will be read from JSON File.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etSearchBox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginVertical="@dimen/list_padding"
+        android:layout_width="@dimen/search_width"
+        android:layout_height="@dimen/search_height"
+        android:inputType="text"
+        android:hint="@string/search_hint"
+        android:textColorHint="@color/hint_text"
+        android:layout_marginHorizontal="@dimen/list_padding" />
+
+    <ListView
+        android:id="@+id/lvItemList"
+        android:layout_below="@id/etSearchBox"
+        android:paddingVertical="@dimen/list_padding"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_height"
+        android:clickable="true"
+        android:listSelector="@color/hint_text"
+        android:focusable="true" />
+
+    <Button
+        android:id="@+id/btnBackListPageView"
+        android:layout_width="@dimen/btn_width"
+        android:layout_height="@dimen/btn_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/lvItemList"
+        android:text="@string/back"
+        android:textSize="@dimen/default_text_size"
+        android:layout_marginTop="@dimen/list_padding" />
+
+</RelativeLayout>

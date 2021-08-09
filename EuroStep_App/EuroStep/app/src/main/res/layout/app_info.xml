@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tvAppInfoText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/App_info_recenica"
+        android:textSize="@dimen/default_text_size"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:paddingVertical="30dp"
+        />
+    <ImageView
+        android:id="@+id/ivAppInfoImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvAppInfoText"
+        android:src="@drawable/logoeurostep"
+        />
+    <ImageView
+        android:id="@+id/ivLogosevendays"
+        android:layout_width="@dimen/sponsors_width"
+        android:layout_height="@dimen/sponsors_height"
+        android:layout_below="@id/ivAppInfoImage"
+        android:scaleType="fitCenter"
+        android:src="@drawable/sevendayseuroleaguelogo"
+        android:layout_marginTop="50dp"
+        android:clickable="true"
+        />
+    <ImageView
+        android:id="@+id/ivTAirLinesLogo"
+        android:layout_width="@dimen/sponsors_width"
+        android:layout_height="@dimen/sponsors_height"
+        android:layout_below="@id/ivAppInfoImage"
+        android:layout_toRightOf="@id/ivLogosevendays"
+        android:src="@drawable/tairlaineslogo"
+        android:layout_marginTop="50dp"
+        android:clickable="true"
+        />
+    <ImageView
+        android:id="@+id/ivEuroBankLogo"
+        android:layout_width="@dimen/sponsors_width"
+        android:layout_height="@dimen/sponsors_height"
+        android:layout_below="@id/ivLogosevendays"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/eurologobank"
+        android:layout_marginTop="30dp"
+        android:clickable="true"
+        />
+    <Button
+        android:id="@+id/btnBackAppInfo"
+        android:layout_width="@dimen/btn_width"
+        android:layout_height="@dimen/btn_height"
+        android:layout_below="@id/ivEuroBankLogo"
+        android:layout_centerHorizontal="true"
+        android:text="@string/back"
+        android:textSize="@dimen/default_text_size"
+        android:layout_marginTop="50dp"
+        />
+
+</RelativeLayout>

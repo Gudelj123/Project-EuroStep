@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/list_padding"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/default_text_size"
+        android:textStyle="bold"
+        android:id="@+id/tvMainData"/>
+    <TextView
+        android:paddingVertical="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/small_text_size"
+        android:id="@+id/tvSecondaryData"
+        android:textStyle="italic"
+        />
+
+
+
+</LinearLayout>

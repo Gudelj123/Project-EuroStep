@@ -1,0 +1,214 @@
+{
+    "teams":[
+    {
+        "Location": "California",
+        "TeamAbbr": "GSW",
+        "TeamID": 1,
+        "TeamLogo": "https://i.imgur.com/0b33z89.png",
+        "TeamName": "Golden State Warriors"
+    },
+    {
+        "Location": "Texas",
+        "TeamAbbr": "HOU",
+        "TeamID": 2,
+        "TeamLogo": "https://i.imgur.com/bRhMnde.png",
+        "TeamName": "Houston Rockets"
+    },
+    {
+        "Location": "Louisiana",
+        "TeamAbbr": "NOP",
+        "TeamID": 3,
+        "TeamLogo": "https://i.imgur.com/vB0C6GZ.png",
+        "TeamName": "New Orleans Pelicans"
+    },
+    {
+        "Location": "Ontario",
+        "TeamAbbr": "TOR",
+        "TeamID": 4,
+        "TeamLogo": "https://i.imgur.com/prWiarY.png",
+        "TeamName": "Toronto Raptors"
+    },
+    {
+        "Location": "Ohio",
+        "TeamAbbr": "CLE",
+        "TeamID": 5,
+        "TeamLogo": "https://i.imgur.com/poSVytp.png",
+        "TeamName": "Cleveland Cavaliers"
+    },
+    {
+        "Location": "Colorado",
+        "TeamAbbr": "DEN",
+        "TeamID": 6,
+        "TeamLogo": "https://i.imgur.com/nNlQZtS.png",
+        "TeamName": "Denver Nuggets"
+    },
+    {
+        "Location": "Pennsylvania",
+        "TeamAbbr": "PHI",
+        "TeamID": 7,
+        "TeamLogo": "https://i.imgur.com/ncwfno3.png",
+        "TeamName": "Philadelphia 76ers"
+    },
+    {
+        "Location": "Minnesota",
+        "TeamAbbr": "MIN",
+        "TeamID": 8,
+        "TeamLogo": "https://i.imgur.com/Dk0eBGT.png",
+        "TeamName": "Minnesota Timberwolves"
+    },
+    {
+        "Location": "California",
+        "TeamAbbr": "LAC",
+        "TeamID": 9,
+        "TeamLogo": "https://i.imgur.com/PLcT06l.png",
+        "TeamName": "Los Angeles Clippers"
+    },
+    {
+        "Location": "North Carolina",
+        "TeamAbbr": "CHO",
+        "TeamID": 10,
+        "TeamLogo": "https://i.imgur.com/hW7G08N.png",
+        "TeamName": "Charlotte Hornets"
+    },
+    {
+        "Location": "California",
+        "TeamAbbr": "LAL",
+        "TeamID": 11,
+        "TeamLogo": "https://i.imgur.com/vDHR32y.png",
+        "TeamName": "Los Angeles Lakers"
+    },
+    {
+        "Location": "Oklahoma",
+        "TeamAbbr": "OKC",
+        "TeamID": 12,
+        "TeamLogo": "https://i.imgur.com/jiigdGx.png",
+        "TeamName": "Oklahoma City Thunder"
+    },
+    {
+        "Location": "Washington DC",
+        "TeamAbbr": "WAS",
+        "TeamID": 13,
+        "TeamLogo": "https://i.imgur.com/KAX48d0.png",
+        "TeamName": "Washington Wizards"
+    },
+    {
+        "Location": "New York",
+        "TeamAbbr": "BRK",
+        "TeamID": 14,
+        "TeamLogo": "https://i.imgur.com/FFpCgxk.png",
+        "TeamName": "Brooklyn Nets"
+    },
+    {
+        "Location": "Wisconsin",
+        "TeamAbbr": "MIL",
+        "TeamID": 15,
+        "TeamLogo": "https://i.imgur.com/DphT0BT.png",
+        "TeamName": "Milwaukee Bucks"
+    },
+    {
+        "Location": "Oregon",
+        "TeamAbbr": "POR",
+        "TeamID": 16,
+        "TeamLogo": "https://i.imgur.com/KGz8AY8.png",
+        "TeamName": "Portland Trail Blazers"
+    },
+    {
+        "Location": "Indiana",
+        "TeamAbbr": "IND",
+        "TeamID": 17,
+        "TeamLogo": "https://i.imgur.com/oMAnnYz.png",
+        "TeamName": "Indiana Pacers"
+    },
+    {
+        "Location": "New York",
+        "TeamAbbr": "NYK",
+        "TeamID": 18,
+        "TeamLogo": "https://i.imgur.com/5sMoAPA.png",
+        "TeamName": "New York Knicks"
+    },
+    {
+        "Location": "Utah",
+        "TeamAbbr": "UTA",
+        "TeamID": 19,
+        "TeamLogo": "https://i.imgur.com/qV27ZrJ.png",
+        "TeamName": "Utah Jazz"
+    },
+    {
+        "Location": "Massachusetts",
+        "TeamAbbr": "BOS",
+        "TeamID": 20,
+        "TeamLogo": "https://i.imgur.com/xKp3GGG.png",
+        "TeamName": "Boston Celtics"
+    },
+    {
+        "Location": "Arizona",
+        "TeamAbbr": "PHO",
+        "TeamID": 21,
+        "TeamLogo": "https://i.imgur.com/hyi60nj.png",
+        "TeamName": "Phoenix Suns"
+    },
+    {
+        "Location": "Michigan",
+        "TeamAbbr": "DET",
+        "TeamID": 22,
+        "TeamLogo": "https://i.imgur.com/27s66Rc.png",
+        "TeamName": "Detroit Pistons"
+    },
+    {
+        "Location": "Florida",
+        "TeamAbbr": "MIA",
+        "TeamID": 23,
+        "TeamLogo": "https://i.imgur.com/bsyplzQ.png",
+        "TeamName": "Miami Heat"
+    },
+    {
+        "Location": "Florida",
+        "TeamAbbr": "ORL",
+        "TeamID": 24,
+        "TeamLogo": "https://i.imgur.com/yy0G5CW.png",
+        "TeamName": "Orlando Magic"
+    },
+    {
+        "Location": "Georgia",
+        "TeamAbbr": "ATL",
+        "TeamID": 25,
+        "TeamLogo": "https://i.imgur.com/w4iqpAJ.png",
+        "TeamName": "Atlanta Hawks"
+    },
+    {
+        "Location": "Illinois",
+        "TeamAbbr": "CHI",
+        "TeamID": 26,
+        "TeamLogo": "https://i.imgur.com/rZ3SS1g.png",
+        "TeamName": "Chicago Bulls"
+    },
+    {
+        "Location": "Texas",
+        "TeamAbbr": "SAS",
+        "TeamID": 27,
+        "TeamLogo": "https://i.imgur.com/L7gca3G.png",
+        "TeamName": "San Antonio Spurs"
+    },
+    {
+        "Location": "Texas",
+        "TeamAbbr": "DAL",
+        "TeamID": 28,
+        "TeamLogo": "https://i.imgur.com/6OXc92q.png",
+        "TeamName": "Dallas Mavericks"
+    },
+    {
+        "Location": "Tennesee",
+        "TeamAbbr": "MEM",
+        "TeamID": 29,
+        "TeamLogo": "https://i.imgur.com/oNKkrY1.png",
+        "TeamName": "Memphis Grizzlies"
+    },
+    {
+        "Location": "California",
+        "TeamAbbr": "SAC",
+        "TeamID": 30,
+        "TeamLogo": "https://i.imgur.com/WgHr0BH.png",
+        "TeamName": "Sacramento Kings"
+    }
+]
+}

@@ -1,0 +1,257 @@
+* {
+    margin: 0;
+    padding: 0;
+	font-family: sans-serif;
+
+}
+/*Banner (logo i navigacija) */
+.banner{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://www.wallpaperflare.com/static/519/102/345/nba-basketball-chicago-chicago-bulls-wallpaper.jpg");
+	background-size:cover;
+	background-position: center;
+}
+
+footer{
+	width: 100%;
+	left: 0px;
+	bottom: 10%;
+}
+
+footer p{
+	padding :10px;
+	text-align: center;
+	font-size: 12px;
+	font-style: italic;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram{
+	background:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+	color:white;
+}
+.fa-github{
+  background: #4D075C;
+  color: white;
+}
+.fa-linkedin{
+  background: #0077b5;
+  color: white;
+}
+.navbar{
+	widows: 85%;
+	margin: auto;
+	padding: 35px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	
+	
+}
+.navbar ul li{
+	list-style: none;
+	font: oblique;
+	display: inline-block;
+	margin: 0 20px;
+	position: relative;
+}
+.navbar ul li a{
+	text-decoration:none;
+	color:#fff;
+	text-transform: uppercase;
+}
+.navbar ul li::after{
+	content: '';
+	height: 3px;
+	width: 0;
+	background:#EC6B08;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	transition: 0.5s;
+}
+.navbar ul li:hover::after{
+	width: 100%
+}
+.logo{
+	width: 200px;
+	padding-left: 20px;
+	cursor: pointer;
+}
+
+
+
+/*Sadrzaj na home stranici (na sredini ekrana)*/
+.mainSiteContent{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	color: #FFFFFF
+}
+.mainSiteContent h1{
+	font-size: 40px;
+	margin-top: 80px;
+}
+.mainSiteContent p{
+	margin:20px auto;
+	font-weight: 80;
+	line-height: 25px
+}
+button{
+	width: 200px;
+	padding: 15px 0;
+	text-align: center;
+	margin: 20px 10px;
+	border-radius: 25px;
+	font-weight: bold;
+	border: 2px solid #EC6B08;
+	background: transparent;
+	color: #fff;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+}
+button:hover span{
+	width:100%;
+}
+button:hover{
+	border:none;
+}
+button a{
+	font-variant: none;
+}
+span{
+	background: #EC6B08;
+	height:100%;
+	width:0;
+	border-radius: 25px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: -1;
+	transition: 0.5s;
+}
+
+/*Sadrzaj na contact stranici (forma i sve ostalo)*/
+.contactSiteContainer{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	color: #FFFFFF
+}
+.contactSiteContainer h1{
+	font-size: 30px;
+	margin-top: 80px;
+}
+
+form{
+	margin-top: 50px;
+	transition: all 2s ease-in-out;
+}
+.form-control{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color:#fff;
+	font-size:18px;
+	margin-bottom: 16px
+}
+input{
+	height: 45px;
+}
+input::after{
+	background: transparent;
+}
+
+.playerTable{
+	height: 400px;
+	width: auto;
+	overflow-y: scroll;
+	display: inline-block;
+	margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.playerTable th,tr{
+	background-color: #EC6B08;
+    color: #ffffff;
+}
+.playerTable th,
+.playerTable td {
+    padding: 12px 15px;
+}
+
+.playerTable tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+	color:black;
+}
+
+.playerTable tr:last-of-type {
+    border-bottom: thin solid #EC6B08;
+}
+
+
+.playersData{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	color: #FFFFFF
+}
+
+.playersData h1{
+	font-size: 30px;
+	margin-top: 70px;
+}
+
+.teamsData{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	color: #FFFFFF
+}
+
+.teamsData h1{
+	font-size: 30px;
+	margin-top: 70px;
+}
+
+
+th, td, p, input {
+            font:14px "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+        }
+table, th, td{
+            padding: thin thin;
+            text-align: center;
+        }
+th {
+            font-weight:bold;
+        }
