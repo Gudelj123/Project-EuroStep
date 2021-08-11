@@ -63,7 +63,7 @@
 
 <script>
 $(document).ready(function(){
-	$.getJSON("assets/player_stats.json",function(data){
+	$.getJSON("https://napredak.org/images/assets/player_stats.json",function(data){
 		var player_data = '';
 		$.each(data,function(key,value){
 			player_data += '<tr>';
